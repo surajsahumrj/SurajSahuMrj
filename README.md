@@ -1,15 +1,19 @@
+<h2 align="center">Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+I'm Suraj Sahu</h2>
+<h3 align="center">Aspiring Web Developer & Data Analyst</h3>
+
 # 💫 About Me:
-🌐 I'm currently working on An art gallery website.  <br>🤝 I'm looking to collaborate on Web development projects.  <br>🛠️ I'm looking for help with Backend development.  <br>🌱 I'm currently learning Web development.  <br>💬 Ask me about Web dev and photography.  <br>⚡Fun fact I debug code faster than I find matching socks!  
+🌐 I'm currently working on An Art Gallery Website.  <be>
+🤝 I'm looking to collaborate on Web Development Projects.  <be>
+🛠️ I'm looking for help with Backend Development.  <be>
+🌱 I'm currently learning Web Development.  <be>
+⚡ Fun fact I am a self-taught Dev and passionate for Data Scientist!  
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/surajsahu5656) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajsahu5656) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajsahu5656) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/surajsahu5656) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/surajsahu5656) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/surajsahu5656) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/surajsahu5656) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/surajsahu5656) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajsahu5656)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajsahu5656) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@surajsahu5656)
 
