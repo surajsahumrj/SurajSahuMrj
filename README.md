@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm currently working on An art gallery website.  <br><br>🤝 I'm looking to collaborate on Web development projects.  <br><br>🛠️ I'm looking for help with Backend development.  <br><br>🌱 I'm currently learning Web development.  <br><br>💬 Ask me about Web dev and photography.  <br><br>⚡Fun fact I debug code faster than I find matching socks!  
+🌐 I'm currently working on An art gallery website.  <br>🤝 I'm looking to collaborate on Web development projects.  <br>🛠️ I'm looking for help with Backend development.  <br>🌱 I'm currently learning Web development.  <br>💬 Ask me about Web dev and photography.  <br>⚡Fun fact I debug code faster than I find matching socks!  
 
 
 ## 🌐 Socials:
