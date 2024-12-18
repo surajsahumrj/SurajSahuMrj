@@ -1,12 +1,11 @@
-<h2 align="center">Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Suraj Sahu</h2>
+<h2 align="center">Hey!👋 I'm Suraj Sahu</h2>
 <h3 align="center">Aspiring Web Developer & Data Analyst</h3>
 
 # 💫 About Me:
-🌐 I'm currently working on An Art Gallery Website.  <be>
-🤝 I'm looking to collaborate on Web Development Projects.  <be>
-🛠️ I'm looking for help with Backend Development.  <be>
-🌱 I'm currently learning Web Development.  <be>
+🌐 I'm currently working on An Art Gallery Website.  <br>
+🤝 I'm looking to collaborate on Web Development Projects.  <br>
+🛠️ I'm looking for help with Backend Development.  <br>
+🌱 I'm currently learning Web Development.  <br>
 ⚡ Fun fact I am a self-taught Dev and passionate for Data Scientist!  
 
 
