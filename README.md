@@ -28,45 +28,6 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div align="center">
-  <table style="border-collapse: collapse; font-size: 1rem;">
-    <tr>
-      <td>HTML5</td>
-      <td>CSS3</td>
-      <td>JavaScript</td>
-      <td>TypeScript</td>
-      <td>jQuery</td>
-    </tr>
-    <tr>
-      <td>Angular</td>
-      <td>Bootstrap</td>
-      <td>PHP</td>
-      <td>Java</td>
-      <td>C++</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>MySQL</td>
-      <td>MongoDB</td>
-      <td>Oracle</td>
-      <td>Solidity</td>
-    </tr>
-    <tr>
-      <td>Pandas</td>
-      <td>NumPy</td>
-      <td>Matplotlib</td>
-      <td>scikit-learn</td>
-      <td>Plotly</td>
-    </tr>
-    <tr>
-      <td>TensorFlow</td>
-      <td>LaTeX</td>
-      <td>Adobe</td>
-      <td colspan="2"></td>
-    </tr>
-  </table>
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <!-- Tech Stack Icons (grouped) -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
@@ -103,14 +64,4 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsahumrj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=surajsahumrj&icon=0&color=0"/>
-  </a>
 </div>
-
-<br>
-
-<p align="center">
-  <i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i>
-</p>
