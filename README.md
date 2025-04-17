@@ -1,13 +1,11 @@
-<!-- GitHub Profile README - Enhanced Version -->
-
 <h1 align="center" style="font-size: 3rem; color: #4e9af1;">Hey!👋 I'm Suraj Sahu</h1>
-<h3 align="center" style="color: #555;">Aspiring Web Developer & Data Analyst</h3>
+<h3 align="center" style="color: #555;">Aspiring Web Developer & Data Science Student</h3>
 
 <br>
 
 <div align="center" style="font-size: 1.1rem;">
   🌐 Currently working on <strong>An Art Gallery Website</strong> <br>
-  🤝 Looking to collaborate on <strong>Web Development Projects</strong> <br>
+  🤝 Looking collaboration on <strong>Web Development Projects</strong> <br>
   🛠️ Seeking help with <strong>Backend Development</strong> <br>
   🌱 Learning <strong>Angular</strong> <br>
   ⚡ Fun Fact: I'm a <strong>self-taught Dev</strong> and passionate about <strong>Data Science</strong>!
@@ -61,7 +59,6 @@
 
 <br><br>
 
-<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsahumrj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
