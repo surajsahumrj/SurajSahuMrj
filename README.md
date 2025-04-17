@@ -1,20 +1,116 @@
-<h1 align="center">Hey!👋 I'm Suraj Sahu</h1>
-<h3 align="center">Aspiring Web Developer & Data Analyst</h3> <br>
+<!-- GitHub Profile README - Enhanced Version -->
 
-## 💫 About Me:
-🌐 I'm currently working on An Art Gallery Website.  <br>
-🤝 I'm looking to collaborate on Web Development Projects.  <br>
-🛠️ I'm looking for help with Backend Development.  <br>
-🌱 I'm currently learning Web Development.  <br>
-⚡ Fun fact I am a self-taught Dev and passionate for Data Scientist!  
+<h1 align="center" style="font-size: 3rem; color: #4e9af1;">Hey!👋 I'm Suraj Sahu</h1>
+<h3 align="center" style="color: #555;">Aspiring Web Developer & Data Analyst</h3>
 
+<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajsahumrj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/surajsahumrj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surajsahumrj)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/surajsahumrj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@surajsahumrj)
+<div align="center" style="font-size: 1.1rem;">
+  🌐 Currently working on <strong>An Art Gallery Website</strong> <br>
+  🤝 Looking to collaborate on <strong>Web Development Projects</strong> <br>
+  🛠️ Seeking help with <strong>Backend Development</strong> <br>
+  🌱 Learning <strong>Angular</strong> <br>
+  ⚡ Fun Fact: I'm a <strong>self-taught Dev</strong> and passionate about <strong>Data Science</strong>!
+</div>
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br><br>
 
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/surajsahumrj"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/surajsahumrj"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/surajsahumrj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/surajsahumrj"><img src="https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://youtube.com/@surajsahumrj"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
+  <table style="border-collapse: collapse; font-size: 1rem;">
+    <tr>
+      <td>HTML5</td>
+      <td>CSS3</td>
+      <td>JavaScript</td>
+      <td>TypeScript</td>
+      <td>jQuery</td>
+    </tr>
+    <tr>
+      <td>Angular</td>
+      <td>Bootstrap</td>
+      <td>PHP</td>
+      <td>Java</td>
+      <td>C++</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>MySQL</td>
+      <td>MongoDB</td>
+      <td>Oracle</td>
+      <td>Solidity</td>
+    </tr>
+    <tr>
+      <td>Pandas</td>
+      <td>NumPy</td>
+      <td>Matplotlib</td>
+      <td>scikit-learn</td>
+      <td>Plotly</td>
+    </tr>
+    <tr>
+      <td>TensorFlow</td>
+      <td>LaTeX</td>
+      <td>Adobe</td>
+      <td colspan="2"></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <!-- Tech Stack Icons (grouped) -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/><br>
+
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/><br>
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white"/><br>
+
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/><br>
+
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white"/>
+</div>
+
+<br><br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajsahumrj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <br><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=surajsahumrj&icon=0&color=0"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i>
+</p>
