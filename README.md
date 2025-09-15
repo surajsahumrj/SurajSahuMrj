@@ -4,10 +4,10 @@
 <br>
 
 <div align="center" style="font-size: 1.1rem;">
-  🌐 Currently working on <strong>An Art Gallery Website</strong> <br>
+  🌐 Currently working on <strong>Freelance Projects</strong> <br>
   🤝 Looking collaboration on <strong>Web Development Projects</strong> <br>
   🛠️ Seeking help with <strong>Backend Development</strong> <br>
-  🌱 Learning <strong>Angular</strong> <br>
+  🌱 Learning <strong>Nodejs</strong> <br>
   ⚡ Fun Fact: I'm a <strong>self-taught Dev</strong> and passionate about <strong>Data Science</strong>!
 </div>
 
